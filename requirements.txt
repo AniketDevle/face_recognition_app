@@ -1,0 +1,10 @@
+CMake
+boto3
+dlib
+numpy
+face_recognition
+torch
+torchvision
+opencv-python
+picamera
+
